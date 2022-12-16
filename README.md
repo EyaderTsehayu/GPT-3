@@ -8,18 +8,18 @@
 
 <img src="screenshot/image2.jpg" alt="signup - Screen" width="45%"/><br>
 
-##Technologies ⚛️
+## Technologies ⚛️
 I used `React JS`, `html`, `css`
 
-##Setup / Installation 💻
+## Setup / Installation 💻
 - download or clone the repository
 - run `npm install`
 - `npm start`
 
-##Approach
+## Approach
 I adopted the `BEM` naming style for my css class names and full responsiveness with pure css.
 
-##Credits 📝
+## Credits 📝
 List of contriubutors:
 
 - Eyader Tsehayu(eyaderts@gmail.com)
